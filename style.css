@@ -19,6 +19,7 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 100;
     font-size: 16pt;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
   }
   
   #logo-div {
@@ -44,6 +45,7 @@
     border-radius: 50%;
     height: 70vw;
     width: 70vw;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
   }
 
   .break {
@@ -103,6 +105,8 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 100;
     font-size: 36px;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
+    
   }
   
   #logo-div {
@@ -121,6 +125,7 @@
     border-radius: 50%;
     height: 30vw;
     width: 30vw;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
   }
 
   .break {
@@ -154,6 +159,7 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     padding-left: 1%;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
   }
 
   .card-text {
